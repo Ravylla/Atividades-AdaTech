@@ -1,0 +1,20 @@
+.variation {
+    background-image: url(../css/cuscuz.jpg);
+    display: block;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    box-shadow: 8px 5px 10px black;
+}
+
+.cardapio{
+    display: block;
+    margin: 0 auto;
+}
+
+.figcaption {
+    display: block;
+    text-align: center;
+    margin: 20px;
+
+}
